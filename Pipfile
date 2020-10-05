@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 flask = "*"
 flask-cors = "*"
+yoyo-migrations = "*"
+psycopg2 = "*"
+sqlalchemy = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.6"
